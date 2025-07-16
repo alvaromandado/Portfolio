@@ -1,1 +1,2 @@
-En esta carpeta se incluyen los archivos obtenidos en la relaziación de 
+En esta carpeta se incluyen los archivos obtenidos en la participación en el proyecto de innovación docente de la Universidad Complutense de Madrid (en conjunto con la Universidad Politécnica de Madrid) titulado "Explorando las tecnologías cuánticas: una introducción práctica a la computación cuántica para estudiantes de ciencias".
+Además, se incluye una copia de la memoria entregada a la finalización del proyecto.
