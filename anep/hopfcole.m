@@ -1,7 +1,7 @@
 function [t,x,U]=hopfcole(L,T,N,u0)
 
 % Este código resuelve la ecuacion de Burgers viscosa en el recinto [0,L]x[0,T], con N+1 pasos espaciales y un perfil inicial u0
-% mediante la resolución de la transformada de Hopf-Cole en el recinto transformado, que no es más que un problema Neumann de calotr.
+% mediante la resolución de la transformada de Hopf-Cole en el recinto transformado, que no es más que un problema Neumann de calor.
 % Definimos los parámetros del problema
 
 h = L / N;       % Paso espacial
