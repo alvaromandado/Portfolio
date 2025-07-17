@@ -1,5 +1,7 @@
 function [t,x,U]=laxfriedrichs(L,T,N,u)
 
+% Este código resuelve la ecuacion de Burgers viscosa en el recinto [0,L]x[0,T], con N+1 pasos espaciales y un perfil inicial u0
+% mediante el esquema de Lax-Friedrichs, con un término no lineal del tipo upwind-downwind.
 % Definimos los parámetros del problema
 
 h = L / N;       % Paso espacial
