@@ -1,1 +1,1 @@
-Hola
+En esta carpeta se encuentran los códigos de MatLab generados para la realización de las clases prácticas de la asignatura Análisis Numérico del grado en Matemáticas de la Universidad Complutense de Madrid, impartida por Ángel Manuel Ramos del Olmo en el curso 2024-2025.
