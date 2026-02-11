@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2025 Alvaro Mandado Diaz & Noelia Rosales Ledesma
+ * This file is part of [Ecuación de Burgers Viscosa].
+ */
 function [t,x,U]=laxfriedrichs(L,T,N,u)
 
 % Este código resuelve la ecuacion de Burgers viscosa en el recinto [0,L]x[0,T], con N+1 pasos espaciales y un perfil inicial u0
@@ -213,3 +217,4 @@ end
 %     pause(0.005);
 % 
 % end
+
